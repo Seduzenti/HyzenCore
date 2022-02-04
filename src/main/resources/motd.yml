@@ -1,0 +1,9 @@
+motd: 'Another Minecraft Server'
+# Ative o 'change_version' para funcionar.
+version: '&aA abertura está próxima!'
+version_name: '&c&lMANUTENÇÃO!'
+
+change_version: false
+
+# Coloque 'ALL' caso queira que o bungeecord esteja em manutenção.
+maintenance: []

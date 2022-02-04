@@ -1,0 +1,6 @@
+author: Escolhendo
+name: HyzenUtils
+version: 1.0
+depend: [ApexServices]
+
+main: redehyzen.escolhendo.utils.bungee.Bungee
